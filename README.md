@@ -2,7 +2,7 @@
 
 🎓 High school student specializing in software engineering and cybersecurity
 
-💡 Passionate about secure systems design, from low-level programming to high-level protocols
+💡 I love turning ideas into code, from low-level programming to high-level protocols
 
 🧑‍🏫 Teaching Assistant in Data Structures and Assembly (x86) at Hertzog High School
 
