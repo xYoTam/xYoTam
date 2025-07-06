@@ -6,7 +6,8 @@
 
 🧑‍🏫 Teaching Assistant in Data Structures and Assembly (x86) at Hertzog High School
 
-📚 Always learning — with a strong interest in reverse engineering, cryptography, and system-level programming
+📚 Always learning — cryptography, system-level programming, networking and more
 
 📍 Based in Israel | Eager to collaborate and contribute to meaningful open-source projects
 
+📫 How to reach me - GMAIL: barkanim10@gmail.com <=---=> Discord: xyotam
